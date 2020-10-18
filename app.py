@@ -11,7 +11,7 @@ app = Flask(__name__)
 # config
 import os
 app.config.from_object(os.environ['APP_SETTINGS']) # config.BaseConfig or config.DevelopmentConfig
-print(os.environ['APP_SETTINGS'])
+# print(os.environ['APP_SETTINGS'])
 
 #app.secret_key = ""
 #app.database = "sample.db"
