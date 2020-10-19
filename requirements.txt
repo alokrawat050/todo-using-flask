@@ -17,4 +17,4 @@ singledispatch==3.4.0.3
 six==1.15.0
 SQLAlchemy==1.3.20
 Werkzeug==1.0.1
-psycong2==2.7.4
+psycong2==2.5.3
